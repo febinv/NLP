@@ -1,0 +1,1 @@
+This repository contains code for implementing a n-gram classifier, dependency parser and memm classifier from scratch
